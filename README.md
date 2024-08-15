@@ -1,0 +1,6 @@
+- 👋 Hi, I'm @TheJamerson
+- 👀 I’m interested in Python, R, SQL, Statistic and everyone thinks I'm into data scince wolrd!
+- 🌱 I’m currently learning fundations of data scince.
+- 💞️ I’m looking to collaborate on any company that offers breakfast.
+- 📫 How to reach me  jamersoncontact@gmail.com
+- ⚡ Fun fact: I'm Brazilian and I hate beans in ice cream tubs.
